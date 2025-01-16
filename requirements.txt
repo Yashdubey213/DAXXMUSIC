@@ -36,7 +36,7 @@ pickledb
 pillow==10.3.0
 psutil
 ntgcalls
-py-tgcalls==1.0.0  # Only one version of py-tgcalls is specified
+py-tgcalls==0.9.7  # Only one version of py-tgcalls is specified
 pycountry
 pycryptodome
 pydub
