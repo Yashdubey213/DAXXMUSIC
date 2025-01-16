@@ -6,6 +6,7 @@ bard
 beautifulsoup4
 bing_image_downloader
 bs4
+unidecode
 cloudscraper
 curl-cffi
 deepai
